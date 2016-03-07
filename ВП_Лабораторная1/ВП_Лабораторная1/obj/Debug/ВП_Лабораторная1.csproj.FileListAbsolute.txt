@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2015\Projects\ВП_Лабораторная1\ВП_Лабораторная1\bin\Debug\ВП_Лабораторная1.exe.config
+c:\users\user\documents\visual studio 2015\Projects\ВП_Лабораторная1\ВП_Лабораторная1\bin\Debug\ВП_Лабораторная1.exe
+c:\users\user\documents\visual studio 2015\Projects\ВП_Лабораторная1\ВП_Лабораторная1\bin\Debug\ВП_Лабораторная1.pdb
+c:\users\user\documents\visual studio 2015\Projects\ВП_Лабораторная1\ВП_Лабораторная1\obj\Debug\ВП_Лабораторная1.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\ВП_Лабораторная1\ВП_Лабораторная1\obj\Debug\ВП_Лабораторная1.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\ВП_Лабораторная1\ВП_Лабораторная1\obj\Debug\ВП_Лабораторная1.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\ВП_Лабораторная1\ВП_Лабораторная1\obj\Debug\ВП_Лабораторная1.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\ВП_Лабораторная1\ВП_Лабораторная1\obj\Debug\ВП_Лабораторная1.exe
+c:\users\user\documents\visual studio 2015\Projects\ВП_Лабораторная1\ВП_Лабораторная1\obj\Debug\ВП_Лабораторная1.pdb
