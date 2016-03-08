@@ -19,17 +19,28 @@ namespace ВП_Лабораторная1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            string text = textBox1.Text;
-            char[] obrtext = text.ToCharArray();
-            Array.Reverse(obrtext); // метод поворота символов введённых данных в обратном порядке
-            string finaltext = new string(obrtext); // строка с инициализацией символов из массива
-            if (text == finaltext) // сравнение исходной строки и перевернутой строкой
+            try
             {
-                MessageBox.Show(" \n\t Данная запись является палиндромом \n\t\t ");
+                string text = textBox1.Text;
+                if (String.IsNullOrEmpty(text))
+                {
+                    throw new FormatException();
+                }
+                char[] obrtext = text.ToCharArray();
+                Array.Reverse(obrtext);
+                string finaltext = new string(obrtext);
+                if (text == finaltext)
+                {
+                    MessageBox.Show(" \n\t Данная запись является палиндромом \n\t\t ");
+                }
+                if (text != finaltext)
+                {
+                    MessageBox.Show(" \n\t Данная запись не является палиндромом \n\t\t ");
+                }
             }
-            if (text != finaltext)
+            catch
             {
-                MessageBox.Show(" \n\t Данная запись не является палиндромом \n\t\t ");
+                MessageBox.Show(" \n\t Неверно введен текст! \n\t\t ");
             }
         }
     }
