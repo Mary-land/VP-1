@@ -25,7 +25,7 @@ namespace ВП_Лабораторная1
         
         private void оПрограммеToolStripMenuItem2_Click(object sender, EventArgs e)
         {
-            MessageBox.Show(" \n\t Elizabeth Omelnitskaya, Maria Bakanova  \n\t\t (c) 2015 \t\t ", "Аuthors: ");
+            MessageBox.Show(" \n\t Elizabeth Omelnitskaya, Maria Bakanova  \n\t This is a program that looks for palindromes \n\t\t (c) 2015 \t\t ", "Аuthors: ");
         }
 
         private void проверкаToolStripMenuItem1_Click(object sender, EventArgs e)
