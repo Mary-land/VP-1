@@ -7,3 +7,13 @@ c:\users\user\documents\visual studio 2015\Projects\ВП_Лабораторна�
 c:\users\user\documents\visual studio 2015\Projects\ВП_Лабораторная1\ВП_Лабораторная1\obj\Debug\ВП_Лабораторная1.csproj.GenerateResource.Cache
 c:\users\user\documents\visual studio 2015\Projects\ВП_Лабораторная1\ВП_Лабораторная1\obj\Debug\ВП_Лабораторная1.exe
 c:\users\user\documents\visual studio 2015\Projects\ВП_Лабораторная1\ВП_Лабораторная1\obj\Debug\ВП_Лабораторная1.pdb
+C:\Users\User\Desktop\VP-1.git\ВП_Лабораторная1\ВП_Лабораторная1\bin\Debug\ВП_Лабораторная1.exe.config
+C:\Users\User\Desktop\VP-1.git\ВП_Лабораторная1\ВП_Лабораторная1\obj\Debug\ВП_Лабораторная1.exe
+C:\Users\User\Desktop\VP-1.git\ВП_Лабораторная1\ВП_Лабораторная1\obj\Debug\ВП_Лабораторная1.pdb
+C:\Users\User\Desktop\VP-1.git\ВП_Лабораторная1\ВП_Лабораторная1\bin\Debug\ВП_Лабораторная1.exe
+C:\Users\User\Desktop\VP-1.git\ВП_Лабораторная1\ВП_Лабораторная1\bin\Debug\ВП_Лабораторная1.pdb
+C:\Users\User\Desktop\VP-1.git\ВП_Лабораторная1\ВП_Лабораторная1\obj\Debug\ВП_Лабораторная1.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\VP-1.git\ВП_Лабораторная1\ВП_Лабораторная1\obj\Debug\ВП_Лабораторная1.Form1.resources
+C:\Users\User\Desktop\VP-1.git\ВП_Лабораторная1\ВП_Лабораторная1\obj\Debug\ВП_Лабораторная1.Form2.resources
+C:\Users\User\Desktop\VP-1.git\ВП_Лабораторная1\ВП_Лабораторная1\obj\Debug\ВП_Лабораторная1.Properties.Resources.resources
+C:\Users\User\Desktop\VP-1.git\ВП_Лабораторная1\ВП_Лабораторная1\obj\Debug\ВП_Лабораторная1.csproj.GenerateResource.Cache

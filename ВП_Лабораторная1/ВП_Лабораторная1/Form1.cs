@@ -12,6 +12,7 @@ namespace ВП_Лабораторная1
 {
     public partial class Form1 : Form
     {
+        Form2 F2;
         public Form1()
         {
             InitializeComponent();
@@ -29,7 +30,8 @@ namespace ВП_Лабораторная1
 
         private void проверкаToolStripMenuItem1_Click(object sender, EventArgs e)
         {
-
+            F2 = new Form2();
+            F2.Show();
         }
     }
 }
